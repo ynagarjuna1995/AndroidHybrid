@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <script type="text/javascript">
+     <!--Get the text from the input box-->
+    function clickEventTriggered(){
+        input =  document.getElementById("input").value;
+        <!--Call the change text method-->
+        showAndroidToast(input);
+    }
+
+    function showAndroidToast(toastmsg) {
+        Android.showToast(toastmsg);
+    }
+</script>
+</head>
+<body>
+
+
+<h1>1Enter the Text</h1> <br>
+<input type="text" id="input" value="">
+<br>
+
+<input type="button" value="Submit" onClick="clickEventTriggered()" />
+
+</form>
+</body>
+</html>
+

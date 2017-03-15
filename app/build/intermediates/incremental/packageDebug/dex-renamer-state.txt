@@ -1,0 +1,7 @@
+#Wed Mar 15 12:58:51 IST 2017
+base.0=C\:\\Users\\Nagarjuna\\Documents\\AndroidJSWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a414f54b71cfe2728791eb6e6b662c8fa3802aa5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Nagarjuna\\Documents\\AndroidJSWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f075a34f756a218a739d7e161985cd1184cadcc2\\classes.dex
+base.1=C\:\\Users\\Nagarjuna\\Documents\\AndroidJSWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f075a34f756a218a739d7e161985cd1184cadcc2
+file.0=C\:\\Users\\Nagarjuna\\Documents\\AndroidJSWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a414f54b71cfe2728791eb6e6b662c8fa3802aa5\\classes.dex

@@ -12,6 +12,10 @@
     function showAndroidToast(toastmsg) {
         Android.showToast(toastmsg);
     }
+
+    function showChangedText(newText){
+        document.getElementById("changedText").innerHTML= newText;
+    }
 </script>
 </head>
 <body>
@@ -20,7 +24,7 @@
 <h1>1Enter the Text</h1> <br>
 <input type="text" id="input" value="">
 <br>
-
+<h1 id="changedText"> random</h1>
 <input type="button" value="Submit" onClick="clickEventTriggered()" />
 
 </form>

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Mar 15 12:58:46 IST 2017
+#Wed Mar 15 13:08:49 IST 2017
 2.base=C\:\\Users\\Nagarjuna\\Documents\\AndroidJSWebView\\app\\build\\intermediates\\assets\\debug
 5.file=C\:\\Users\\Nagarjuna\\Documents\\AndroidJSWebView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
 5.set=ANDROID_RESOURCE

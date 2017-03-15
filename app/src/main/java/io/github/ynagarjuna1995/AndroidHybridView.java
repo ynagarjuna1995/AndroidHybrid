@@ -10,12 +10,14 @@ import android.widget.Toast;
 
 public class AndroidHybridView extends Activity {
 
+    WebView browser;
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         //WebView Object
-        WebView browser;
+//        WebView browser;
         browser=(WebView)findViewById(R.id.webkit);
         //Enable Javascript
         browser.getSettings().setJavaScriptEnabled(true);
@@ -58,6 +60,7 @@ public class AndroidHybridView extends Activity {
 
            String newText = reverseCase(toast);
             Toast.makeText(mContext, newText, Toast.LENGTH_SHORT).show();
+            browser.loadUrl("javascript:showChangedText('"+newText+"')");
         }
 
 
